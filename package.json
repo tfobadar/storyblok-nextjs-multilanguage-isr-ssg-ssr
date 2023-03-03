@@ -10,12 +10,15 @@
     "dependencies": {
         "@storyblok/storyblok-editable": "^1.0.0",
         "axios": "^0.21.1",
-        "marked": "^2.0.3",
-        "next": "10.2.0",
-        "react": "17.0.2",
-        "react-dom": "17.0.2",
+        "formik": "^2.2.9",
+        "jquery": "^3.6.3",
+        "marked": "^4.2.2",
+        "next": "^13.0.2",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
         "storyblok-js-client": "^4.0.9",
-        "storyblok-react": "^0.1.2"
+        "storyblok-react": "^0.1.2",
+        "yup": "^1.0.2"
     },
     "devDependencies": {
         "autoprefixer": "^10.2.5",

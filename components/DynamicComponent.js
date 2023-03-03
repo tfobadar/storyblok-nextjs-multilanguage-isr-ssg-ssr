@@ -7,6 +7,7 @@ import PostsList from './PostsList'
 import Page from './Page'
 import BlogPost from './BlogPost'
 import Text from './Text'
+import GetInviteForm from './GetInvite';
 
 const Components = {
   'teaser': Teaser,
@@ -17,6 +18,7 @@ const Components = {
   'post': BlogPost,
   'text': Text,
   'selected-posts': PostsList,
+  'get-invite': GetInviteForm
 }
 
 const DynamicComponent = ({ blok }) => {

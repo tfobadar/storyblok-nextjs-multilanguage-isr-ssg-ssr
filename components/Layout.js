@@ -1,6 +1,6 @@
-import Head from '../components/Head'
-import Navigation from '../components/Navigation'
-import Footer from '../components/Footer'
+import Head from './Head'
+import Navigation from './Navigation'
+import Footer from './Footer'
 
 const Layout = ({ children, locale, locales }) => (
   <div className="bg-gray-300">

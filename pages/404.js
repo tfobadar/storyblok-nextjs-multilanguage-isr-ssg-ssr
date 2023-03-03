@@ -1,6 +1,6 @@
 import React from 'react'
-import Layout from '../components/Layout'
-import DynamicComponent from '../components/DynamicComponent'
+import Layout from '../Components/Layout'
+import DynamicComponent from '../Components/DynamicComponent'
 
 import { useStoryblok } from "../utils/storyblok"
 
